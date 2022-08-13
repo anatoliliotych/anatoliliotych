@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A little bit about me:
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,js,python,elixir,rails,react,ember,vue,vim,git,bash,docker,aws,heroku,azure,gcp,postgres,redis,mysql,mongodb&perline=10)](https://skillicons.dev)
+
+
